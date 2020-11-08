@@ -2,7 +2,7 @@ https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.w
 https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
 plotly==4.9.0
 numpy==1.18.4
-opencv-python==4.4.0.46
 pillow==7.2.0
 matplotlib==3.2.2
 streamlit==0.69.2
+opencv-python-headless
