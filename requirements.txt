@@ -1,5 +1,5 @@
-torch==1.6.0+cpu
-torchvision==0.7.0+cpu
+torch==1.6.0
+torchvision==0.7.0
 plotly==4.9.0
 numpy==1.18.4
 cv2==4.2.0
