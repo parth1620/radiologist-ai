@@ -1,5 +1,5 @@
-torch==1.6.0
-torchvision==0.7.0
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
 plotly==4.9.0
 numpy==1.18.4
 opencv-python==4.4.0.46
