@@ -3,6 +3,6 @@ torchvision==0.7.0
 plotly==4.9.0
 numpy==1.18.4
 opencv-python==4.4.0.46
-PIL==7.2.0
+pillow==7.2.0
 matplotlib==3.2.2
 streamlit==0.69.2
