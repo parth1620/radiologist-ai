@@ -17,7 +17,7 @@ logo = Image.open('Logo.png')
 st.image(logo,width = 130)
 st.title("Radiologist Assistant")
 
-uploaded_file = st.file_uploader("Choose an image...",type="png")
+uploaded_file = st.file_uploader("Choose an image...",type=["png", "jpg", "jpeg"])
 
 pathology_list = [ 'Atelectasis', 'Cardiomegaly', 'Effusion', 'Infiltration', 'Mass', 'Nodule', 'Pneumonia',
                 'Pneumothorax', 'Consolidation', 'Edema', 'Emphysema', 'Fibrosis', 'Pleural_Thickening', 'Hernia']
