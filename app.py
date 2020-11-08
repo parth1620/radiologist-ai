@@ -68,7 +68,7 @@ if uploaded_file:
 
     fig = go.Figure([go.Bar(x=pathology_list, y=ps)],layout)
     
-    st.plotly_chart(fig)
+    st.plotly_chart(fig,use_container_width = True)
 
     class FeatureExtractor():
 
